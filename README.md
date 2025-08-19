@@ -4,14 +4,15 @@ Civilian detection with drone vision and deep learning (YOLO, Roboflow, PyTorch)
 
 This project is a machine learning–based **computer vision system** that detects civilians from aerial imagery captured by drones. It is designed to work in **day and night conditions**, and can handle both **low and high proximity detections**.  
 
+| Day/Night Detection |  | High/Low Proximity |  
+|-------------------|--|------------------|
+| ![Day](./Files/768.png) | | ![High](./Files/769.png) |  
 
-| Day Detection | Night Detection |
-|---------------|----------------|
-| ![Screenshot (768)](./Files/Screenshot (768).png) | ![Screenshot (768)](./Screenshot (768).png) |
 
-| High Proximity | Low Proximity |
-|----------------|---------------|
-| ![Screenshot (769).png](./Files/Screenshot (769).png) | ![Screenshot (769)](./Screenshot (769).png) |
+
+
+
+
 
 
 
@@ -48,4 +49,10 @@ This project is developed **for educational and research purposes only**.
 - The original raw footage is **not included in this repository** to respect copyright and ethical considerations.  
 
 The intent of this project is to explore computer vision techniques for **civilian detection in aerial/surveillance contexts**, not to make political commentary or commercial products.  
+
+## License
+
+This project is licensed under the **Apache License 2.0**.  
+See the [LICENSE](./LICENSE) file for details.
+
 
