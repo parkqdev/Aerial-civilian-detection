@@ -6,7 +6,7 @@ This project is a machine learning–based **computer vision system** that detec
 
 | Day/Night Detection |  | High/Low Proximity |  
 |-------------------|--|------------------|
-| ![Day](./Files/768.png) | | ![High](./Files/769.png) |  
+| ![Day](./Files/768.png) | | ![High](./Files/770.png) |  
 
 
 
