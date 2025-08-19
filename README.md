@@ -4,10 +4,12 @@ Civilian detection with drone vision and deep learning (YOLO, Roboflow, PyTorch)
 
 This project is a machine learning–based **computer vision system** that detects civilians from aerial imagery captured by drones. It is designed to work in **day and night conditions**, and can handle both **low and high proximity detections**.  
 
-While the system performs well in varied environments, there are limitations such as:
-- Potential **false positives** (e.g., detecting objects shaped like humans).
-- **Reduced accuracy in very low light**, unless paired with night-vision technology.
-- Environmental conditions (fog, rain, heavy shadows) can impact detection reliability.
+
+| ![ss1](./Files/ss1.png) ![ss4](./Files/ss4.png)  | ![ss2](./Files/ss2.png) ![ss7](./Files/ss7.png)  | ![ss3](./Files/ss3.png) ![ss5](./Files/ss5.png) |
+|:------------------------------:|:------------------------------:|:------------------------------:|
+| Escape Puzzle                | Monster Encounter                | Discover the Truth             |
+
+
 
 ---
 
@@ -29,7 +31,11 @@ git clone https://github.com/parkqdev/aerial-civilian-detection.git
 
 
 ```
-
+While the system performs well in varied environments, there are limitations such as:
+- Potential **false positives** (e.g., detecting objects shaped like humans).
+- **Reduced accuracy in very low light**, unless paired with night-vision technology.
+- Environmental conditions (fog, rain, heavy shadows) can impact detection reliability.
+  
 ## Disclaimer
 
 This project is developed **for educational and research purposes only**.  
