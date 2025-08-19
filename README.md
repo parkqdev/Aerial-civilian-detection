@@ -24,7 +24,7 @@ This project is a machine learning–based **computer vision system** that detec
 - Supports both daytime and nighttime scenarios.
 - Trained with **Roboflow’s Look Down Folks dataset**:  
   👉 [Roboflow Dataset](https://universe.roboflow.com/folks/look-down-folks)
-- Powered by **YOLO + PyTorch** for real-time detection.
+- Powered by **YOLOv5 + PyTorch** for real-time detection.
 - Exported in **Jupyter Notebook (.ipynb)** format for easy execution.
 
 ---
