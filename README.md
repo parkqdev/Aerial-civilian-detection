@@ -7,11 +7,11 @@ This project is a machine learning–based **computer vision system** that detec
 
 | Day Detection | Night Detection |
 |---------------|----------------|
-| ![ss1](./Files/Screenshot (768).png) | ![ss4](./Screenshot (768).png) |
+| ![Screenshot (768)](./Files/Screenshot (768).png) | ![Screenshot (768)](./Screenshot (768).png) |
 
 | High Proximity | Low Proximity |
 |----------------|---------------|
-| ![ss2](./Files/Screenshot (769).png) | ![ss3](./Screenshot (769).png) |
+| ![Screenshot (769).png](./Files/Screenshot (769).png) | ![Screenshot (769)](./Screenshot (769).png) |
 
 
 
