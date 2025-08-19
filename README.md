@@ -28,7 +28,7 @@ Clone this repository or download the `.ipynb` file to run the project:
 git clone https://github.com/parkqdev/aerial-civilian-detection.git
 
 
----
+```
 
 ## Disclaimer
 
