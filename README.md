@@ -6,8 +6,8 @@ This project is a machine learning–based **computer vision system** that detec
 
 
 | ![ss1](./Files/ss1.png) ![ss4](./Files/ss4.png)  | ![ss2](./Files/ss2.png) ![ss7](./Files/ss7.png)  | ![ss3](./Files/ss3.png) ![ss5](./Files/ss5.png) |
-|:------------------------------:|:------------------------------:|:------------------------------:|
-| Escape Puzzle                | Monster Encounter                | Discover the Truth             |
+|:------------------------------:|:------------------------------:|
+| Day/Night                | High/Low proximity               | 
 
 
 
