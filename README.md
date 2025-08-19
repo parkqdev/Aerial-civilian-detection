@@ -34,7 +34,6 @@ git clone https://github.com/parkqdev/aerial-civilian-detection.git
 
 This project is developed **for educational and research purposes only**.  
 - The dataset used for training and testing was sourced from publicly available news coverage.  
-- Sensitive and violent content was blurred or trimmed before use.  
 - The original raw footage is **not included in this repository** to respect copyright and ethical considerations.  
 
 The intent of this project is to explore computer vision techniques for **civilian detection in aerial/surveillance contexts**, not to make political commentary or commercial products.  
